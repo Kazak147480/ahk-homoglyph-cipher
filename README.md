@@ -1,4 +1,5 @@
-﻿# Homoglyph & Invisible-Char Cipher (AutoHotkey v1)
+﻿# Homoglyph & Invisible-Char Cipher (AutoHotkey v2 required
+)
 
 Obfuscates clipboard text using Unicode look-alikes (homoglyphs) and random zero-width characters.
 
